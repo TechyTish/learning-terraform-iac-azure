@@ -24,3 +24,7 @@ used to apply (create) the changes required to reach the desired state of the co
 terraform destroy
 ```
 used to destroy (delete) the terraform-managed infrastructure & asks for confirmation.
+```terraform
+terraform plan
+```
+used to preview the resources that are going to be deployed.
